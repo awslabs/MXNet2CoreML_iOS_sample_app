@@ -94,7 +94,7 @@ After you have everything downloaded in the same directory, run this
 command:
 
 ```sh
-$ mxnet\_coreml\_converter.py --model-prefix='RN101-5k500' --epoch=12 --input-shape='{"data":"3,224,224"}' --mode=classifier --pre-processing-arguments='{"image\_input\_names":"data"}' --class-labels grids.txt --output-file="RN1015k500.mlmodel"
+$ mxnet_coreml_converter.py --model-prefix='RN101-5k500' --epoch=12 --input-shape='{"data":"3,224,224"}' --mode=classifier --pre-processing-arguments='{"image_input_names":"data"}' --class-labels grids.txt --output-file="RN1015k500.mlmodel"
 ```
 
 Internally, the model is first loaded by MXNet recreating the entire
