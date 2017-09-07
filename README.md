@@ -1,4 +1,5 @@
-(Please note: this repository is part of an AWS Blog post available at https://aws.amazon.com/blogs/ai/bring-machine-learning-to-ios-apps-using-apache-mxnet-and-apple-core-ml/)
+(**Please note**: this repository is part of an [AWS AI Blog](https://aws.amazon.com/blogs/ai/) post available at
+ https://aws.amazon.com/blogs/ai/bring-machine-learning-to-ios-apps-using-apache-mxnet-and-apple-core-ml/)
 
 
 # Bring Machine Learning to iOS apps using Apache MXNet and Apple Core ML
@@ -220,6 +221,6 @@ images you have already taken or would take on the spot.
 We are excited to discover the different ways this sample app will
 inspire you. If you have questions, comments or suggestions, please post
 them in the **Comments** section in the matching blog post on the [AWS
-AI Blog](https://aws.amazon.com/blogs/ai/).
+AI Blog](https://aws.amazon.com/blogs/ai/bring-machine-learning-to-ios-apps-using-apache-mxnet-and-apple-core-ml/).
 
 Have fun!
